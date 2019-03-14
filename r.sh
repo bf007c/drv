@@ -1,0 +1,1 @@
+sed -i 's/#server.port                 = 81/server.port                 = 818/g' "/opt/etc/lighttpd/lighttpd.conf"
